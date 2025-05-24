@@ -1,19 +1,22 @@
-﻿#Literatures and Resources
+﻿# Literatures and Resources
 A list of resources for getting started, blogs, newsletters, and podcasts, python tools, and databases for materials informatics. If you think there's a great resource missing, read the contribution guide and open a pull request or create an issue and I'll be happy to add it. This list is in no way comprehensive, it's simply a collection of resources I've found extremely helpful in my own research. This field is rapidly evolving and I've tried to focus on materials-specific resources, rather than cover the constantly changing cutting-edge of data science tools. I have included some foundational tools that are prerequisites for most of the other resources. There is also a list of materials informatics research groups. This list is inspired by Pat Walters' excellent list of resources for cheminformatics. Chemistry, the so-called "central science," is in many ways leading the charge when it comes to applying machine learning to science, so it doesn't hurt to be familiar with the progress in the field.
 
-Getting started
+# Getting started
 What is materials informatics? - This blog post from Citrine does a really nice job summarizing what materials informatics is and why it's worth doing.
 
-Machine Learning for Materials Scientists: An Introductory Guide toward Best Practices - There are too many reviews and perspectives on ML for materials science to count; I like this one because it includes example code and notebooks and plenty of helpful tables with references to databases and work in the field. If you read this paper and work through the examples, you'll have a solid foundation for doing materials informatics research.
+# Machine Learning for Materials Scientists: 
+An Introductory Guide toward Best Practices - There are too many reviews and perspectives on ML for materials science to count; I like this one because it includes example code and notebooks and plenty of helpful tables with references to databases and work in the field. If you read this paper and work through the examples, you'll have a solid foundation for doing materials informatics research.
 
-Matminer Tutorials - The Matminer tutorial series uses interactive Jupyter notebooks to walk through the basic steps of materials informatics: data retrieval, featurization, machine learning, and data evaluation/visualization.
+# Matminer Tutorials -
+The Matminer tutorial series uses interactive Jupyter notebooks to walk through the basic steps of materials informatics: data retrieval, featurization, machine learning, and data evaluation/visualization.
 
-Materials Project Workshop - This fantastic three day workshop offered annually by the wonderful folks at the Materials Project covers introductions to Python, Jupyter notebooks for data science, MongoDB for databases, and using the full stack of Materials Project software for computational materials science. There are lecture videos and interactive notebooks accompanying each lesson. Appropriate for anyone with an interest in computational materials, no need to be a Python wizard.
+# Materials Project Workshop - 
+This fantastic three day workshop offered annually by the wonderful folks at the Materials Project covers introductions to Python, Jupyter notebooks for data science, MongoDB for databases, and using the full stack of Materials Project software for computational materials science. There are lecture videos and interactive notebooks accompanying each lesson. Appropriate for anyone with an interest in computational materials, no need to be a Python wizard.
 
-Materials Informatics Lectures by Taylor Sparks - If you enjoy a good lecture, this online course is an amazing resource in an area where many universities do not yet have great courses developed. If you aren't comfortable with Python or need a refresher, Taylor has another great online course on Python Programming for Materials Engineers.
+# Materials Informatics Lectures by Taylor Sparks - 
+If you enjoy a good lecture, this online course is an amazing resource in an area where many universities do not yet have great courses developed. If you aren't comfortable with Python or need a refresher, Taylor has another great online course on Python Programming for Materials Engineers.
 
-Blogs, newsletters, and podcasts
-My blog - I post occasionally about my own research in materials informatics and materials physics.
+# Blogs, newsletters, and podcasts
 
 Citrine Blog - There are some good posts here about challenges in the field, as well as specific case studies and white papers
 
@@ -25,7 +28,7 @@ Materialism Podcast - Materialism is a great podcast about general topics in mat
 
 ML4Sci - A newsletter that covers all applications of machine learning to applied science, including materials.
 
-Python Tools
+# Python Tools
 Jupyter - Project Jupyter is the de facto standard for doing data science in an interactive, web-based interface. A common theme among these resources is that the best ones will always be accompanied by example code and Jupyter notebooks. Advantages: great for rapid iteration and experimentation (science). Disadvantages: not great for reproducibility, deployment in production, and robustness (engineering).
 
 nbQA - A fantastic tool for cleaning up messy notebooks. Appreciated by anyone who is trying to understand your prototyping work, including your future self.
@@ -45,7 +48,7 @@ ASE - Simulation environment for materials and molecules.
 
 pytopomat - Workflows for high-throughput band topology calculations.
 
-Materials informatics libraries
+# Materials informatics libraries
 Matminer and Automatminer - Automated generation of descriptors from material structures and compositions, as well as ML model training and evaluation.
 
 PUMML - Semi-supervised materials machine learning (e.g. to predict synthetic accessibility)
@@ -56,7 +59,7 @@ MEGNet - Graph networks for molecules and crystals.
 
 DeepChem - Deep learning for the sciences. Support for PyTorch and TensorFlow, focused on chemical and life sciences with increasing support for materials science.
 
-Visualization, data sharing and discovery
+# Visualization, data sharing and discovery
 Crystal Toolkit - Interactive web app for visualizing materials science data.
 
 SUMO - Plotting tools for electronic structure calculation data.
@@ -67,7 +70,7 @@ MDF - A way to publish your own materials datasets with an API for accessing the
 
 Matscholar - AI assistant using natural language processing to parse materials science literature.
 
-Databases
+# Databases
 Materials Project - Over 130,000 inorganic compounds and 49,000 molecules and counting, with calculated phase diagrams, structural, thermodynamic, electronic, magnetic, and topological properties.
 
 OQMD - 815,000+ materials with calculated thermodynamic and structural properties.
