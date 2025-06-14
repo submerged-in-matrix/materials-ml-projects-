@@ -1,0 +1,21 @@
+name: bandgap_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.24
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - xgboost=1.7.6
+  - lightgbm
+  - shap=0.42.1
+  - optuna=3.5.0
+  - scikit-optimize
+  - joblib
+  - pip
+  - pip:
+      - pymatgen
+      - matminer
