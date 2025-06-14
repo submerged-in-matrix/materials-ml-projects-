@@ -34152,3 +34152,11 @@ Name: target, Length: 3360, dtype: float32
 2025-06-02 20:28:53,896:INFO:Plot type: pipeline
 2025-06-02 20:28:54,452:INFO:Visual Rendered Successfully
 2025-06-02 20:28:57,064:INFO:plot_model() successfully completed......................................
+2025-06-14 14:24:03,469:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-14 14:24:03,470:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-14 14:24:03,470:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-14 14:24:03,470:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
