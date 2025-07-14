@@ -1,0 +1,141 @@
+Your Feature Name,Their Feature Name,Match?,YourInTheirs,TheirInYours
+group,Unnamed: 0,False,False,False
+row,local difference in MendeleevNumber,False,True,False
+Z,local difference in Column,False,False,False
+valenceelectrons,local difference in Row,False,True,False
+diffto18electrons,local difference in Electronegativity,False,True,False
+sunfilled,local difference in NsValence,False,True,False
+punfilled,local difference in NpValence,False,True,False
+dunfilled,local difference in NdValence,False,True,False
+wt CN_1,local difference in NfValence,False,True,False
+sgl_bd CN_1,local difference in NValence,False,True,False
+wt CN_2,local difference in NsUnfilled,False,True,False
+L-shaped CN_2,local difference in NpUnfilled,False,True,False
+water-like CN_2,local difference in NdUnfilled,False,True,False
+bent 120 degrees CN_2,local difference in NfUnfilled,False,True,False
+bent 150 degrees CN_2,local difference in NUnfilled,False,True,False
+linear CN_2,local difference in GSbandgap,False,True,False
+wt CN_3,local signed difference in MendeleevNumber,False,True,False
+trigonal planar CN_3,local signed difference in Column,False,True,False
+trigonal non-coplanar CN_3,local signed difference in Row,False,True,False
+T-shaped CN_3,local signed difference in Electronegativity,False,True,False
+wt CN_4,local signed difference in NsValence,False,True,False
+square co-planar CN_4,local signed difference in NpValence,False,True,False
+tetrahedral CN_4,local signed difference in NdValence,False,True,False
+rectangular see-saw-like CN_4,local signed difference in NfValence,False,True,False
+see-saw-like CN_4,local signed difference in NValence,False,True,False
+trigonal pyramidal CN_4,local signed difference in NsUnfilled,False,True,False
+wt CN_5,local signed difference in NpUnfilled,False,True,False
+pentagonal planar CN_5,local signed difference in NdUnfilled,False,True,False
+square pyramidal CN_5,local signed difference in NfUnfilled,False,True,False
+trigonal bipyramidal CN_5,local signed difference in NUnfilled,False,True,False
+wt CN_6,local signed difference in GSbandgap,False,True,False
+hexagonal planar CN_6,maximum local difference in MendeleevNumber,False,True,False
+octahedral CN_6,maximum local difference in Column,False,True,False
+pentagonal pyramidal CN_6,maximum local difference in Row,False,True,False
+wt CN_7,maximum local difference in Electronegativity,False,True,False
+hexagonal pyramidal CN_7,maximum local difference in NsValence,False,True,False
+pentagonal bipyramidal CN_7,maximum local difference in NpValence,False,True,False
+wt CN_8,maximum local difference in NdValence,False,True,False
+body-centered cubic CN_8,maximum local difference in NfValence,False,True,False
+hexagonal bipyramidal CN_8,maximum local difference in NValence,False,True,False
+wt CN_9,maximum local difference in NsUnfilled,False,True,False
+q2 CN_9,maximum local difference in NpUnfilled,False,True,False
+q4 CN_9,maximum local difference in NdUnfilled,False,True,False
+q6 CN_9,maximum local difference in NfUnfilled,False,True,False
+wt CN_10,maximum local difference in NUnfilled,False,True,False
+q2 CN_10,maximum local difference in GSbandgap,False,True,False
+q4 CN_10,mimum local difference in MendeleevNumber,False,True,False
+q6 CN_10,mimum local difference in Column,False,True,False
+wt CN_11,mimum local difference in Row,False,True,False
+q2 CN_11,mimum local difference in Electronegativity,False,True,False
+q4 CN_11,mimum local difference in NsValence,False,True,False
+q6 CN_11,mimum local difference in NpValence,False,True,False
+wt CN_12,mimum local difference in NdValence,False,True,False
+cuboctahedral CN_12,mimum local difference in NfValence,False,True,False
+q2 CN_12,mimum local difference in NValence,False,True,False
+q4 CN_12,mimum local difference in NsUnfilled,False,True,False
+q6 CN_12,mimum local difference in NpUnfilled,False,True,False
+wt CN_13,mimum local difference in NdUnfilled,False,True,False
+wt CN_14,mimum local difference in NfUnfilled,False,True,False
+wt CN_15,mimum local difference in NUnfilled,False,True,False
+wt CN_16,mimum local difference in GSbandgap,False,True,False
+wt CN_17,column,False,True,False
+wt CN_18,row,False,True,True
+wt CN_19,valenceelectrons,False,True,True
+wt CN_20,diffto18electrons,False,True,True
+wt CN_21,sunfilled,False,True,True
+wt CN_22,punfilled,False,True,True
+wt CN_23,dunfilled,False,True,True
+wt CN_24,wt CN_1,False,True,True
+mendeleevnumber_abs_mean,sgl_bd CN_1,False,False,True
+mendeleevnumber_abs_min,wt CN_2,False,False,True
+mendeleevnumber_abs_max,L-shaped CN_2,False,False,True
+mendeleevnumber_abs_std,water-like CN_2,False,False,True
+mendeleevnumber_signed_mean,bent 120 degrees CN_2,False,False,True
+mendeleevnumber_signed_min,bent 150 degrees CN_2,False,False,True
+mendeleevnumber_signed_max,linear CN_2,False,False,True
+mendeleevnumber_signed_std,wt CN_3,False,False,True
+row_abs_mean,trigonal planar CN_3,False,False,True
+row_abs_min,trigonal non-coplanar CN_3,False,False,True
+row_abs_max,T-shaped CN_3,False,False,True
+row_abs_std,wt CN_4,False,False,True
+row_signed_mean,square co-planar CN_4,False,False,True
+row_signed_min,tetrahedral CN_4,False,False,True
+row_signed_max,rectangular see-saw-like CN_4,False,False,True
+row_signed_std,see-saw-like CN_4,False,False,True
+group_abs_mean,trigonal pyramidal CN_4,False,False,True
+group_abs_min,wt CN_5,False,False,True
+group_abs_max,pentagonal planar CN_5,False,False,True
+group_abs_std,square pyramidal CN_5,False,False,True
+group_signed_mean,trigonal bipyramidal CN_5,False,False,True
+group_signed_min,wt CN_6,False,False,True
+group_signed_max,hexagonal planar CN_6,False,False,True
+group_signed_std,octahedral CN_6,False,False,True
+electronegativity_abs_mean,pentagonal pyramidal CN_6,False,False,True
+electronegativity_abs_min,wt CN_7,False,False,True
+electronegativity_abs_max,hexagonal pyramidal CN_7,False,False,True
+electronegativity_abs_std,pentagonal bipyramidal CN_7,False,False,True
+electronegativity_signed_mean,wt CN_8,False,False,True
+electronegativity_signed_min,body-centered cubic CN_8,False,False,True
+electronegativity_signed_max,hexagonal bipyramidal CN_8,False,False,True
+electronegativity_signed_std,wt CN_9,False,False,True
+nvalence_abs_mean,q2 CN_9,False,False,True
+nvalence_abs_min,q4 CN_9,False,False,True
+nvalence_abs_max,q6 CN_9,False,False,True
+nvalence_abs_std,wt CN_10,False,False,True
+nvalence_signed_mean,q2 CN_10,False,False,True
+nvalence_signed_min,q4 CN_10,False,False,True
+nvalence_signed_max,q6 CN_10,False,False,True
+nvalence_signed_std,wt CN_11,False,False,True
+gsbandgap_abs_mean,q2 CN_11,False,False,True
+gsbandgap_abs_min,q4 CN_11,False,False,True
+gsbandgap_abs_max,q6 CN_11,False,False,True
+gsbandgap_abs_std,wt CN_12,False,False,True
+gsbandgap_signed_mean,cuboctahedral CN_12,False,False,True
+gsbandgap_signed_min,q2 CN_12,False,False,True
+gsbandgap_signed_max,q4 CN_12,False,False,True
+gsbandgap_signed_std,q6 CN_12,False,False,True
+G2_0.05,wt CN_13,False,True,True
+G2_4.0,wt CN_14,False,True,True
+G2_20.0,wt CN_15,False,True,True
+G2_80.0,wt CN_16,False,True,True
+G4_0.005_1.0_-1.0,wt CN_17,False,True,True
+G4_0.005_1.0_1.0,wt CN_18,False,True,True
+G4_0.005_4.0_-1.0,wt CN_19,False,True,True
+G4_0.005_4.0_1.0,wt CN_20,False,True,True
+,wt CN_21,,False,True
+,wt CN_22,,False,True
+,wt CN_23,,False,True
+,wt CN_24,,False,True
+,G2_0.05,,False,True
+,G2_4.0,,False,True
+,G2_20.0,,False,True
+,G2_80.0,,False,True
+,G4_0.005_1.0_1.0,,False,True
+,G4_0.005_1.0_-1.0,,False,True
+,G4_0.005_4.0_1.0,,False,True
+,G4_0.005_4.0_-1.0,,False,True
+,stype,,False,False
+,name,,False,False
+,oxidationstate,,False,False
