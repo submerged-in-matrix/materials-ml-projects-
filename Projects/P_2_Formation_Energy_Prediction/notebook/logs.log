@@ -37735,3 +37735,17 @@ Name: target, Length: 3360, dtype: float32
 2025-06-21 15:02:22,296:INFO:Fitting Model
 2025-06-21 15:03:04,253:INFO:Visual Rendered Successfully
 2025-06-21 15:03:05,370:INFO:plot_model() successfully completed......................................
+2025-07-16 18:22:27,850:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-16 18:22:27,851:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-16 18:22:27,851:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-16 18:22:27,851:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-16 18:25:56,707:WARNING:No electronegativity for He. Setting to NaN. This has no physical meaning, and is mainly done to avoid errors caused by the code expecting a float.
+
+2025-07-16 18:25:56,821:WARNING:No electronegativity for Ar. Setting to NaN. This has no physical meaning, and is mainly done to avoid errors caused by the code expecting a float.
+
+2025-07-16 18:25:57,248:WARNING:No electronegativity for Ne. Setting to NaN. This has no physical meaning, and is mainly done to avoid errors caused by the code expecting a float.
+
