@@ -1,4 +1,4 @@
-name,entry_id,icsd_id,composition_generic,unit_cell,sites,metals,oxidationstate
+name,entry_id,icsd_id,composition_generic,unit_cell,sites,metals,oxstate_label
 YbSe,6321,33675,AB,"[[2.949803, -2.949803, 0.0], [-2.949803, 0.0, -2.949803], [2.949803, 2.949803, 0.0]]","['Se @ 0.5 0 0.5', 'Yb @ 0 0 0']",['Yb'],{'Yb': 2.0}
 ZnNi,17859,105469,AB,"[[2.735285, 0.0, 0.0], [0.0, 2.735285, 0.0], [0.0, 0.0, 3.202656]]","['Ni @ 0 0 0', 'Zn @ 0.5 0.5 0.5']","['Zn', 'Ni']","{'Zn': 2, 'Ni': 2}"
 TiAg,10676,58369,AB,"[[2.858117, 0.0, 0.0], [0.0, 2.858117, 0.0], [0.0, 0.0, 4.158994]]","['Ag @ 0 0 0', 'Ti @ 0.5 0.5 0.5']","['Ti', 'Ag']","{'Ti': 3, 'Ag': 1}"
